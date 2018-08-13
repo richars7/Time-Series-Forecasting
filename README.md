@@ -15,3 +15,6 @@ https://onlinecourses.science.psu.edu/stat510/
 https://datascienceplus.com/time-series-analysis-building-a-model-on-non-stationary-time-series/
 
 https://otexts.org/fpp2/stationarity.html
+
+
+
